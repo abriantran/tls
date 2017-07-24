@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Measuring the Usability of TLS Deployment
 
-You can use the [editor on GitHub](https://github.com/abriantran/tls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abriantran/tls/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Computer Security researchers at the University of Michigan and Rice University need participants for a SSL/TLS (Secure Sockets Layer/Transport Layer Security) usability research study. Participants will be asked to configure secure Linux web servers using two different approaches, answer questions about them, and complete surveys. The study will take approximately an hour and a half to complete, and participants will be paid $50 for completing the study. To be eligible you must be 18 years of age or older, have normal or corrected-to-normal vision, and have working knowledge of UNIX-like operating systems and Internet infrastructure. If interested in participating in the study, either e-mail [hfresearchlab@gmail.com](mailto:hfresearchlab@gmail.com) or call at [(713) 570-6807](tel:+1-713-570-6807). 
