@@ -9,12 +9,13 @@ approximately 1.5 hours to complete, and participants will be paid $50 for their
 time. To be eligible you must be 18 years of age or older, have normal or
 corrected-to- normal vision, and have working knowledge of UNIX-like operating
 systems and Internet infrastructure. If interested in participating in the study,
-either e-mail hfresearchlab@gmail.com or call at (713) 570-6807.
+either e-mail [hfresearchlab@gmail.com](mailto:hfresearchlab@gmail.com) or call 
+at [(713) 570-6807](tel:+1-713-570-6807).
 
-If you would like to verify the authenticity of this study, you may call (713-348-
-5038) or email (claudiaz@rice.edu) Dr. Claudia Acemyan in the Department of
+If you would like to verify the authenticity of this study, you may call 
+(713-348-5038) or email (claudiaz@rice.edu) Dr. Claudia Acemyan in the Department of
 Psychology at Rice University.
 
 If you have questions pertaining to your rights as a research participant, or to
 report objections to this study, you should contact Stephanie Thomas at Rice
-University. Telephone: 713-348- 3586 or Email: Stephanie.D.Thomas@rice.edu.
+University. Telephone: 713-348-3586 or Email: Stephanie.D.Thomas@rice.edu.
