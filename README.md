@@ -7,8 +7,8 @@ asked to configure secure Linux web servers using two different approaches,
 answer questions about them, and complete surveys. The study will take
 approximately 1.5 hours to complete, and participants will be paid $50 for their
 time. To be eligible you must be 18 years of age or older, have normal or
-corrected-to- normal vision, and have working knowledge of UNIX-like operating
-systems and Internet infrastructure. If interested in participating in the study,
+corrected-to- normal vision. Familiarity with UNIX-like operating systems and 
+Internet infrastructure is preferred, but not necessary. If interested in participating in the study,
 either e-mail [hfresearchlab@gmail.com](mailto:hfresearchlab@gmail.com) or call 
 at [(713) 570-6807](tel:+1-713-570-6807).
 
